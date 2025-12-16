@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+<img width="1112" height="794" alt="image" src="https://github.com/user-attachments/assets/180a31ec-aeb6-45bd-969b-e46ca619bdd1" />
 [Deepika EX 5.1.pdf](https://github.com/user-attachments/files/24192590/Deepika.EX.5.1.pdf)
 
 
